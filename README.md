@@ -1,14 +1,14 @@
 # Solidity Assessment
 
 ## Introduction
-The "MyToken" Solidity program showcases fundamental features for creating and overseeing tokens on the Ethereum blockchain. It serves as a straightforward token contract, demonstrating capabilities like token creation, minting, burning, and essential data storage such as name, abbreviation, and overall supply.
+The "MyToken" Solidity program showcases fundamental features for creating and overseeing tokens on the Ethereum blockchain. It serves as a straightforward token contract, demonstrating capabilities like token creation, minting, burning, and essential data storage such as name, abbreviation, and total supply.
 
 ## Description
-This contract embodies essential functionalities, allowing the initiation of new tokens, minting of additional tokens, and the controlled burning of existing tokens. Crucial token information, including name, abbreviation, and overall supply, is made publicly available. The contract is designed to ensure that the burning function only proceeds when the sender possesses an adequate balance.
+This contract embodies essential functionalities, allowing the initiation of new tokens, minting of additional tokens, and the controlled burning of existing tokens. Crucial token information, including name, abbreviation, and total supply, is made publicly available. The contract is designed to ensure that the burning function only proceeds when the sender possesses an adequate balance.
 
 ## Getting Started
 ### Running the Program
-Go to the Remix website by visiting Remix Ethereum IDE.
+Go to the Remix website at https://remix.ethereum.org/.
 
 Create a New File:
 
