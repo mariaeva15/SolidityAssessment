@@ -1,1 +1,1 @@
-# SolidityAssessment
+# Solidity Assessment
